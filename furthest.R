@@ -2,6 +2,7 @@
 ################## FURTHEST ##############################################
 # Euclidean distance with spatio-temporal projection. Use general speed from p1 to pn to project inbetween points pi 
 # with a distance estimation thanks to pi time.
+# from Laurent Etienne Phd and from R package 'kmlshape'
 #
 # inputs
 # p1 = trajectory first point (x,y)
