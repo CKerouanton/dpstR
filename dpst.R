@@ -1,3 +1,5 @@
+# from Laurent Etienne PhD and from R package "kmlshape"
+
 DPST = function(trajx, trajy, time, epsilon){
   
   n <- length(trajx)
@@ -20,12 +22,10 @@ DPST = function(trajx, trajy, time, epsilon){
     resultTrajx = c(recResults1$x,recResults2$x[-1])
     resultTrajy = c(recResults1$y,recResults2$y[-1])
     resultTrajt = c(recResults1$t, recResults2$t[-1])
-    #        d = c(farestPoint["dmax"],recResults1$d,recResults2$d)
   } else {
     resultTrajx = c(trajx[1],trajx[end])
     resultTrajy = c(trajy[1],trajy[end])
     resultTrajt = c(time[1], time[end])
-    #        d=numeric()
   }
   return(data.frame(x=resultTrajx,y=resultTrajy, t = resultTrajt))
 }
