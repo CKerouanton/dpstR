@@ -8,7 +8,7 @@ This algorithm is usually adopted for polylines generalization (a simple explain
 ## Function
 
 Two functions are needed to compute Douglas-Peucker spatio-temporal algorithm : 
-The 'DPST' function is extracted from kmlShape function "DouglasPeuckerEpsilon". It takes for inputs spatial coordinates, time. The parameter epsilon is the distance between original trajectory and new trajectory segments, for which generalization stops. 
+The 'DPST' function is extracted from kmlShape function <a href= kmlShape/man/DouglasPeucker.Rd > 'DouglasPeuckerEpsilon </a>. It takes for inputs spatial coordinates, time. The parameter epsilon is the distance between original trajectory and new trajectory segments, for which generalization stops. 
 The 'furhtest' function looks for the furthest point to the tested trajectory segment, with a spatio-temporal projection
 
 ## References
