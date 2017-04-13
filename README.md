@@ -3,7 +3,7 @@ Douglas-Peucker Spatio-Temporal algorithm for trajectory generalization
 
 ## Douglas-Peucker spatio-temporal algorithm
 
-This algorithm is usually adopted for polylines generalization (a simple explaination can be found  <a href=https://github.com/zimmicz/simpline.wiki.git> here </a>), and it can be applied to trajectories. Originally working with spatial coordinates, several authors utilize a spatio-temporal version of the algorithme (<a href=https://tel.archives-ouvertes.fr/file/index/docid/667953/filename/these_etienne.pdf> L. Etienne, 2011 </a> ; <a href=https://www.microsoft.com/en-us/research/wp-content/uploads/2011/11/TrajectoryComputing_Preview.pdf> Zheng & Zhou, 2011 </a> ). The two functions described here are from Laurent Etienne Phd and from R package "kmlshape".
+This algorithm is usually adopted for polylines generalization (a simple explanation can be found  <a href=https://github.com/zimmicz/simpline.wiki.git> here </a>), and it can be applied to trajectories. Originally working with spatial coordinates, several authors utilize a spatio-temporal version of the algorithme (<a href=https://tel.archives-ouvertes.fr/file/index/docid/667953/filename/these_etienne.pdf> L. Etienne, 2011 </a> ; <a href=https://www.microsoft.com/en-us/research/wp-content/uploads/2011/11/TrajectoryComputing_Preview.pdf> Zheng & Zhou, 2011 </a> ). The two functions described here are from Laurent Etienne Phd and from R package "kmlshape".
 
 ## Function
 
