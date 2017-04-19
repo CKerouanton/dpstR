@@ -13,5 +13,5 @@ The 'furhtest' function looks for the furthest point to the tested trajectory se
 
 ## References
 
-Etienne, L. (2011). Motifs spatio-temporels de trajectoires d'objets mobiles, de l'extraction à la détection de comportements inhabituels. Application au trafic maritime (Doctoral dissertation, Université de Bretagne occidentale-Brest).
-Zheng, Y., & Zhou, X. (Eds.). (2011). Computing with spatial trajectories. Springer Science & Business Media.
+- Etienne, L. (2011). Motifs spatio-temporels de trajectoires d'objets mobiles, de l'extraction à la détection de comportements inhabituels. Application au trafic maritime (Doctoral dissertation, Université de Bretagne occidentale-Brest).
+- Zheng, Y., & Zhou, X. (Eds.). (2011). Computing with spatial trajectories. Springer Science & Business Media.
